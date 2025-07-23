@@ -1,0 +1,21 @@
+Produto,Categoria,Preço,Quantidade,Data_Venda
+Camisa,Roupas,50.0,10,2023-01-01
+Calça,Roupas,100.0,15,2023-01-02
+Saia,Roupas,80.0,20,2023-01-03
+Camiseta,Roupas,45.0,30,2023-01-04
+Jaqueta,Roupas,120.0,5,2023-01-05
+Vestido,Roupas,90.0,12,2023-01-06
+Bermuda,Roupas,60.0,18,2023-01-07
+Sapato,Calçados,150.0,7,2023-01-08
+Sandália,Calçados,70.0,25,2023-01-09
+Tênis,Calçados,200.0,8,2023-01-10
+Botas,Calçados,180.0,6,2023-01-11
+Mochila,Acessórios,70.0,15,2023-01-12
+Cinto,Acessórios,40.0,22,2023-01-13
+Óculos,Acessórios,120.0,10,2023-01-14
+Relógio,Acessórios,250.0,4,2023-01-15
+Brinco,Acessórios,35.0,30,2023-01-16
+Blusa,Roupas,55.0,14,2023-01-17
+Shorts,Roupas,65.0,19,2023-01-18
+Suéter,Roupas,95.0,9,2023-01-19
+Saia longa,Roupas,75.0,11,2023-01-20

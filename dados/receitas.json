@@ -1,0 +1,81 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo de Chocolate",
+            "tempo_preparo": "45 minutos",
+            "porcoes": 8,
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de Trigo",
+                    "quantidade": "2 xícaras"
+                },
+                {
+                    "ingrediente": "Açúcar",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "quantidade": "3 xícaras"
+                },
+                {
+                    "ingrediente": "Leite",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Manteiga",
+                    "quantidade": "1/2 xícara"
+                }
+            ]
+        },
+        {
+            "titulo": "Salada Caesar",
+            "tempo_preparo": "20 minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "ingrediente": "Alface romana",
+                    "quantidade": "1 cabeça"
+                },
+                {
+                    "ingrediente": "Croutons",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Queijo parmesão",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "ingrediente": "Molho caesar",
+                    "quantidade": "1/4 xícara"
+                }
+            ]
+        },
+        {
+            "titulo": "Pasta ao Pesto",
+            "tempo_preparo": "30 minutos",
+            "porcoes": 2,
+            "ingredientes": [
+                {
+                    "ingrediente": "Massa",
+                    "quantidade": "200g"
+                },
+                {
+                    "ingrediente": "Manjericão fresco",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "ingrediente": "Azeite de oliva",
+                    "quantidade": "1/3 xícara"
+                },
+                {
+                    "ingrediente": "Nozes",
+                    "quantidade": "1/4 xícara"
+                },
+                {
+                    "ingrediente": "Queijo parmesão",
+                    "quantidade": "1/4 xícara"
+                }
+            ]
+        }
+    ]
+}
